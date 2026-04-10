@@ -67,6 +67,11 @@ cd Habit-Tracker
 
 ---
 
+## ⚠️ Note
+The Reset feature is not working properly right now.  
+I’m aware of the issue and will update the code soon to fix it.  
+Other features (Add, Delete, Toggle, Progress Bar) are working fine.
+
 ## ⚠️ Limitations
 
 * Data stored only in browser (no backend)
